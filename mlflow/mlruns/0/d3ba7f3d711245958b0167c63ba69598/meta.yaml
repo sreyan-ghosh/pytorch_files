@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/d3ba7f3d711245958b0167c63ba69598/artifacts
+end_time: 1587306897991
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d3ba7f3d711245958b0167c63ba69598
+run_uuid: d3ba7f3d711245958b0167c63ba69598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1587306808888
+status: 3
+tags: []
+user_id: sreyan

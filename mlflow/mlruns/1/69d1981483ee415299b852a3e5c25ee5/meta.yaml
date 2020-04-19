@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sreyan/Desktop/ML_Files/pytorch_files/mlflow/mlruns/1/69d1981483ee415299b852a3e5c25ee5/artifacts
+end_time: 1587307751873
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 69d1981483ee415299b852a3e5c25ee5
+run_uuid: 69d1981483ee415299b852a3e5c25ee5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1587307649807
+status: 3
+tags: []
+user_id: sreyan
